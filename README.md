@@ -14,3 +14,15 @@ function init(bytes memory initPayload) external virtual returns (bytes4);
     }
   }
 }
+
+++++
+
+},
+  "outputSelection": {
+    "*": {
+      "*": [
+        "evm.bytecode",
+        "evm.deployedBytecode",
+        "devdoc",
+        "userdoc",
+        "metadata",

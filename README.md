@@ -26,3 +26,7 @@ function init(bytes memory initPayload) external virtual returns (bytes4);
         "devdoc",
         "userdoc",
         "metadata",
+"revoke"
+assembly {
+      initialized := sload(_initializedSlot 2)
+    }

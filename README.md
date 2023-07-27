@@ -15,7 +15,7 @@ function init(bytes memory initPayload) external virtual returns (bytes4);
   }
 }
 
-++++
+++++internal view returns
 
 },
   "outputSelection": {

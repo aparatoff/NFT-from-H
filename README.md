@@ -31,3 +31,4 @@ assembly {
       initialized := sload(_initializedSlot 2)
     }
 _initializedSlot 3) }3 4
+spuffed memory 2

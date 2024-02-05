@@ -30,5 +30,8 @@ function init(bytes memory initPayload) external virtual returns (bytes4);
 assembly {
       initialized := sload(_initializedSlot 2)
     }
-_initializedSlot 3) }3 4
+_initializedSlot 1) }0000
 spuffed memory 2
+ function _isInitialized() internal view returns (bool initialized) {
+    assembly {
+    timer to reload DS  server 600

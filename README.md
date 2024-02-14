@@ -35,3 +35,7 @@ spuffed memory 2
  function _isInitialized() internal view returns (bool initialized) {
     assembly {
     timer to reload DS  server 600
+unction _isInitialized() internal view returns (bool initialized) { assembly { initialized := sload(_initializedSlot) 
+} 
+exe reverted
+  }

@@ -42,3 +42,4 @@ exe reverted
 ++++internal view returns
 credit score of mint
 60
+limit of NFT per address_2

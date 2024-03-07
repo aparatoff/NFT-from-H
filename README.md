@@ -43,3 +43,4 @@ exe reverted
 credit score of mint
 60
 limit of NFT per address_2
+admin add 0x00 without limit mint
